@@ -12,6 +12,7 @@
  *
  *= require_tree .
  *= require_self
+ *= require social-share-button
  */
 /*!
 /*!
@@ -55,4 +56,8 @@
     padding: 10px 20px;
     border-radius: 5px;
     margin-bottom: 20px;
+}
+
+.social-share {
+    margin-top: 10px;
 }
